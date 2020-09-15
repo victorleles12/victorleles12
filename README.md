@@ -1,16 +1,15 @@
-### Hi there 👋
+### Victor Leles 💻
 
-<!--
-**victorleles12/victorleles12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+redes sociais: <a href="https://www.linkedin.com/in/victor-leles-b4133b57/">Linkedin</a>
 
-Here are some ideas to get you started:
+Olá, meu nome é <strong>Victor</strong> e:
+ 
+ - 📔 - Sou estudante de desenvolvimento de sistemas.
+ - ❤️ - Apaixonado pela programação.
+ - 🐓 - Atualmente na área de Publicidade, mas procurando oportunidades em TI.
+ - 🎓 - Bacharel em publicidade e propaganda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>conhecimentos</strong>
+ - 💻 HTML - CSS - JS/node - Python - Sql
+ - ✒️ PS - AI - INDD
+  
