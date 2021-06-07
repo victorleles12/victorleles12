@@ -4,12 +4,10 @@ redes sociais: <a href="https://www.linkedin.com/in/victor-leles-b4133b57/">Link
 
 Olá, meu nome é <strong>Victor</strong> e:
  
- - 📔 - Sou estudante de desenvolvimento de sistemas.
+ - 📔 - Sou tecnico em desenvolvimento de sistemas.
+ - 📔 - Sou tecnico em projetos multimidia.
  - ❤️ - Apaixonado pela programação.
- - 🐓 - Atualmente na área de Publicidade, mas procurando oportunidades em TI.
- - 🎓 - Bacharel em publicidade e propaganda.
 
 <strong>conhecimentos</strong>
- - 💻 HTML - CSS - JS/node - Python - Sql
- - ✒️ PS - AI - INDD
+ - 💻 HTML - CSS - JS/node - Reactjs - Python - Sql
   
