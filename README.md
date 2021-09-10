@@ -2,12 +2,13 @@
 
 redes sociais: <a href="https://www.linkedin.com/in/victor-leles-b4133b57/">Linkedin</a>
 
-Olá, meu nome é <strong>Victor</strong> e:
+Olá, meu nome é <strong>Victor</strong> e sou:
  
- - 📔 - Sou técnico em desenvolvimento de sistemas.
- - 📔 - Sou técnico em projetos multimidia.
- - ❤️ - Apaixonado pela programação.
+Técnico em desenvolvimento de sistemas.
+Técnico em projetos multimídia.
+Apaixonado por Tecnologia. 
+
 
 <strong>conhecimentos</strong>
- - 💻 HTML - CSS - JS/node - Reactjs - Python - Sql
+ - 💻 HTML - CSS - JS/node - Reactjs - Sql
   
