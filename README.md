@@ -1,6 +1,6 @@
 ### Victor Leles 💻
 
-redes sociais: <a href="https://www.linkedin.com/in/victor-leles-b4133b57/">Linkedin</a>
+Redes sociais: <a href="https://www.linkedin.com/in/victor-leles-b4133b57/">Linkedin</a>
 
 Olá, meu nome é <strong>Victor</strong> e sou:
  
