@@ -7,7 +7,7 @@ Olá, meu nome é <strong>Victor</strong> e sou:
 Desenvolvedor Backend (nodejs)</br>
 Técnico em desenvolvimento de sistemas </br>
 Técnico em projetos multimídia.</br>
-Apaixonado por Tecnologia. 
+Apaixonado por Tecnologia.
 
 
 <strong>Conhecimentos</strong>
