@@ -11,5 +11,10 @@ Apaixonado por Tecnologia.
 
 
 <strong>Conhecimentos</strong>
-HTML - CSS - JS/node - Reactjs - Sql
+:computer: NodeJs
+:file_cabinet: Postgresql
+:computer: Typescript
+:computer: JavaScritp
+:computer: Ampscript
+:computer: ReactJs
   
