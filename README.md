@@ -10,22 +10,22 @@
 
 <h3>Backend</h3>
 <ul>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> Node.js</li>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> NestJS</li>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> AdonisJs</li>
+  <li>Node.js ⚡️</li>
+  <li>NestJS 🦅</li>
+  <li>AdonisJs 🌳</li>
+  <li>TypeScript 🌐</li>
 </ul>
 
 <h3>Banco de Dados</h3>
 <ul>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> MySQL</li>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> PostgreSQL</li>
+  <li>MySQL 🐬</li>
+  <li>PostgreSQL 🐘</li>
 </ul>
 
 <h3>Frontend</h3>
 <ul>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> TypeScript</li>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> JavaScript</li>
-  <li><img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combo.png" width="20" height="20"> React.js</li>
+  <li>JavaScript 💻</li>
+  <li>React.js ⚛️</li>
 </ul>
 
 <h2>Contato</h2>
