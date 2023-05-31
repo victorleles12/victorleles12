@@ -8,12 +8,23 @@
 
 <h2>Habilidades</h2>
 
+<h3>Backend</h3>
 <ul>
   <li>Node.js ⚡️</li>
-  <li>PostgreSQL 🐘</li>
+  <li>NestJS 🦅</li>
+  <li>AdonisJs 🌳</li>
   <li>TypeScript 🌐</li>
+</ul>
+
+<h3>Banco de Dados</h3>
+<ul>
+  <li>MySQL 🐬</li>
+  <li>PostgreSQL 🐘</li>
+</ul>
+
+<h3>Frontend</h3>
+<ul>
   <li>JavaScript 💻</li>
-  <li>Ampscript 🔥</li>
   <li>React.js ⚛️</li>
 </ul>
 
